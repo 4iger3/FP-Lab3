@@ -1,0 +1,11 @@
+{
+  "metals.javaHome": "${env:JAVA_HOME}",
+  "metals.buildTargetIds": ["sbt"],
+  "scala.server.jvmopts": [
+    "-Xmx2G",
+    "-XX:+UseG1GC"
+  ],
+  "files.watcherExclude": {
+    "**/target/**": true
+  }
+}

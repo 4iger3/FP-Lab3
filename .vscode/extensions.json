@@ -1,0 +1,6 @@
+{
+  "recommendations": [
+    "scala-lang.scala",
+    "scalameta.metals"
+  ]
+}

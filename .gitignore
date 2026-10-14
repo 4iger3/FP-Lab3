@@ -1,0 +1,30 @@
+# sbt / Scala
+target/
+project/target/
+project/project/
+project/target212/
+project/target213/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/settings.local.json
+
+# Metals / Bloop
+.metals/
+.bloop/
+.metabrowse/
+
+# Compiled class files
+*.class
+*.tasty
+*.log
+
+# SBT launcher
+sbt-launch.jar
+
+# OS
+.DS_Store
+Thumbs.db
